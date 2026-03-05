@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+<!DOCTYPE bookstab SYSTEM "lab.dtd">
+<?xml-stylesheet type = "text/xsl" href="books.xsl"?>
+<books>
+    <book>
+        <title>
+            programming the world wide web 
+        </title>
+        <author>
+            Robert W.Sebesta
+        </author>
+        <isbn>
+            1234-5678
+        </isbn>
+        <publisher>
+            TataMcGraw-Hill
+        </publisher>
+    </book>
+</books>
